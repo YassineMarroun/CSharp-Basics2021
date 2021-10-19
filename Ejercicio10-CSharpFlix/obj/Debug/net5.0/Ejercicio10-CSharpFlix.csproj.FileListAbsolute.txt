@@ -1,0 +1,16 @@
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio10-CSharpFlix\bin\Debug\net5.0\Ejercicio10-CSharpFlix.exe
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio10-CSharpFlix\bin\Debug\net5.0\Ejercicio10-CSharpFlix.deps.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio10-CSharpFlix\bin\Debug\net5.0\Ejercicio10-CSharpFlix.runtimeconfig.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio10-CSharpFlix\bin\Debug\net5.0\Ejercicio10-CSharpFlix.runtimeconfig.dev.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio10-CSharpFlix\bin\Debug\net5.0\Ejercicio10-CSharpFlix.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio10-CSharpFlix\bin\Debug\net5.0\ref\Ejercicio10-CSharpFlix.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio10-CSharpFlix\bin\Debug\net5.0\Ejercicio10-CSharpFlix.pdb
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio10-CSharpFlix\obj\Debug\net5.0\Ejercicio10-CSharpFlix.csproj.AssemblyReference.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio10-CSharpFlix\obj\Debug\net5.0\Ejercicio10-CSharpFlix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio10-CSharpFlix\obj\Debug\net5.0\Ejercicio10-CSharpFlix.AssemblyInfoInputs.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio10-CSharpFlix\obj\Debug\net5.0\Ejercicio10-CSharpFlix.AssemblyInfo.cs
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio10-CSharpFlix\obj\Debug\net5.0\Ejercicio10-CSharpFlix.csproj.CoreCompileInputs.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio10-CSharpFlix\obj\Debug\net5.0\Ejercicio10-CSharpFlix.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio10-CSharpFlix\obj\Debug\net5.0\ref\Ejercicio10-CSharpFlix.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio10-CSharpFlix\obj\Debug\net5.0\Ejercicio10-CSharpFlix.pdb
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio10-CSharpFlix\obj\Debug\net5.0\Ejercicio10-CSharpFlix.genruntimeconfig.cache
