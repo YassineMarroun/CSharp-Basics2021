@@ -1,0 +1,16 @@
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio05-CalcularEdad\obj\Debug\net5.0\Ejercicio05-CalcularEdad.csproj.AssemblyReference.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio05-CalcularEdad\obj\Debug\net5.0\Ejercicio05-CalcularEdad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio05-CalcularEdad\obj\Debug\net5.0\Ejercicio05-CalcularEdad.AssemblyInfoInputs.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio05-CalcularEdad\obj\Debug\net5.0\Ejercicio05-CalcularEdad.AssemblyInfo.cs
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio05-CalcularEdad\obj\Debug\net5.0\Ejercicio05-CalcularEdad.csproj.CoreCompileInputs.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio05-CalcularEdad\bin\Debug\net5.0\Ejercicio05-CalcularEdad.exe
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio05-CalcularEdad\bin\Debug\net5.0\Ejercicio05-CalcularEdad.deps.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio05-CalcularEdad\bin\Debug\net5.0\Ejercicio05-CalcularEdad.runtimeconfig.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio05-CalcularEdad\bin\Debug\net5.0\Ejercicio05-CalcularEdad.runtimeconfig.dev.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio05-CalcularEdad\bin\Debug\net5.0\Ejercicio05-CalcularEdad.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio05-CalcularEdad\bin\Debug\net5.0\ref\Ejercicio05-CalcularEdad.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio05-CalcularEdad\bin\Debug\net5.0\Ejercicio05-CalcularEdad.pdb
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio05-CalcularEdad\obj\Debug\net5.0\Ejercicio05-CalcularEdad.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio05-CalcularEdad\obj\Debug\net5.0\ref\Ejercicio05-CalcularEdad.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio05-CalcularEdad\obj\Debug\net5.0\Ejercicio05-CalcularEdad.pdb
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio05-CalcularEdad\obj\Debug\net5.0\Ejercicio05-CalcularEdad.genruntimeconfig.cache

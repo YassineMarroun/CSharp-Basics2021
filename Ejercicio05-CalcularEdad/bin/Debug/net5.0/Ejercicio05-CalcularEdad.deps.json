@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio05-CalcularEdad/1.0.0": {
+        "runtime": {
+          "Ejercicio05-CalcularEdad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio05-CalcularEdad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
