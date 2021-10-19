@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yasma2\\OneDrive - UNED\\01. Cursos 0\\02. Aprende a programar con C#\\Curso - CSharp\\Ejemplo00-HolaMundo\\Ejemplo00-HolaMundo.csproj": {}
+    "C:\\Users\\yasma2\\OneDrive - UNED\\.ProyectosGITHUB\\CSharp - Basics2021\\Ejemplo00-HolaMundo\\Ejemplo00-HolaMundo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yasma2\\OneDrive - UNED\\01. Cursos 0\\02. Aprende a programar con C#\\Curso - CSharp\\Ejemplo00-HolaMundo\\Ejemplo00-HolaMundo.csproj": {
+    "C:\\Users\\yasma2\\OneDrive - UNED\\.ProyectosGITHUB\\CSharp - Basics2021\\Ejemplo00-HolaMundo\\Ejemplo00-HolaMundo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yasma2\\OneDrive - UNED\\01. Cursos 0\\02. Aprende a programar con C#\\Curso - CSharp\\Ejemplo00-HolaMundo\\Ejemplo00-HolaMundo.csproj",
+        "projectUniqueName": "C:\\Users\\yasma2\\OneDrive - UNED\\.ProyectosGITHUB\\CSharp - Basics2021\\Ejemplo00-HolaMundo\\Ejemplo00-HolaMundo.csproj",
         "projectName": "Ejemplo00-HolaMundo",
-        "projectPath": "C:\\Users\\yasma2\\OneDrive - UNED\\01. Cursos 0\\02. Aprende a programar con C#\\Curso - CSharp\\Ejemplo00-HolaMundo\\Ejemplo00-HolaMundo.csproj",
+        "projectPath": "C:\\Users\\yasma2\\OneDrive - UNED\\.ProyectosGITHUB\\CSharp - Basics2021\\Ejemplo00-HolaMundo\\Ejemplo00-HolaMundo.csproj",
         "packagesPath": "C:\\Users\\yasma2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yasma2\\OneDrive - UNED\\01. Cursos 0\\02. Aprende a programar con C#\\Curso - CSharp\\Ejemplo00-HolaMundo\\obj\\",
+        "outputPath": "C:\\Users\\yasma2\\OneDrive - UNED\\.ProyectosGITHUB\\CSharp - Basics2021\\Ejemplo00-HolaMundo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yasma2\\AppData\\Roaming\\NuGet\\NuGet.Config"

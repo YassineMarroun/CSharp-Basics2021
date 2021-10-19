@@ -1,0 +1,16 @@
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio04-NumeroMayorArray\bin\Debug\net5.0\Ejercicio04-NumeroMayorArray.exe
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio04-NumeroMayorArray\bin\Debug\net5.0\Ejercicio04-NumeroMayorArray.deps.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio04-NumeroMayorArray\bin\Debug\net5.0\Ejercicio04-NumeroMayorArray.runtimeconfig.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio04-NumeroMayorArray\bin\Debug\net5.0\Ejercicio04-NumeroMayorArray.runtimeconfig.dev.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio04-NumeroMayorArray\bin\Debug\net5.0\Ejercicio04-NumeroMayorArray.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio04-NumeroMayorArray\bin\Debug\net5.0\ref\Ejercicio04-NumeroMayorArray.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio04-NumeroMayorArray\bin\Debug\net5.0\Ejercicio04-NumeroMayorArray.pdb
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio04-NumeroMayorArray\obj\Debug\net5.0\Ejercicio04-NumeroMayorArray.csproj.AssemblyReference.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio04-NumeroMayorArray\obj\Debug\net5.0\Ejercicio04-NumeroMayorArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio04-NumeroMayorArray\obj\Debug\net5.0\Ejercicio04-NumeroMayorArray.AssemblyInfoInputs.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio04-NumeroMayorArray\obj\Debug\net5.0\Ejercicio04-NumeroMayorArray.AssemblyInfo.cs
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio04-NumeroMayorArray\obj\Debug\net5.0\Ejercicio04-NumeroMayorArray.csproj.CoreCompileInputs.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio04-NumeroMayorArray\obj\Debug\net5.0\Ejercicio04-NumeroMayorArray.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio04-NumeroMayorArray\obj\Debug\net5.0\ref\Ejercicio04-NumeroMayorArray.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio04-NumeroMayorArray\obj\Debug\net5.0\Ejercicio04-NumeroMayorArray.pdb
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejercicio04-NumeroMayorArray\obj\Debug\net5.0\Ejercicio04-NumeroMayorArray.genruntimeconfig.cache
