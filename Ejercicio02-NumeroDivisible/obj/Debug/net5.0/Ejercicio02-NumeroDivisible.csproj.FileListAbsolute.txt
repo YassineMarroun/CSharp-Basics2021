@@ -1,0 +1,16 @@
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio02-NumeroDivisible\bin\Debug\net5.0\Ejercicio02-NumeroDivisible.exe
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio02-NumeroDivisible\bin\Debug\net5.0\Ejercicio02-NumeroDivisible.deps.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio02-NumeroDivisible\bin\Debug\net5.0\Ejercicio02-NumeroDivisible.runtimeconfig.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio02-NumeroDivisible\bin\Debug\net5.0\Ejercicio02-NumeroDivisible.runtimeconfig.dev.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio02-NumeroDivisible\bin\Debug\net5.0\Ejercicio02-NumeroDivisible.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio02-NumeroDivisible\bin\Debug\net5.0\ref\Ejercicio02-NumeroDivisible.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio02-NumeroDivisible\bin\Debug\net5.0\Ejercicio02-NumeroDivisible.pdb
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio02-NumeroDivisible\obj\Debug\net5.0\Ejercicio02-NumeroDivisible.csproj.AssemblyReference.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio02-NumeroDivisible\obj\Debug\net5.0\Ejercicio02-NumeroDivisible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio02-NumeroDivisible\obj\Debug\net5.0\Ejercicio02-NumeroDivisible.AssemblyInfoInputs.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio02-NumeroDivisible\obj\Debug\net5.0\Ejercicio02-NumeroDivisible.AssemblyInfo.cs
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio02-NumeroDivisible\obj\Debug\net5.0\Ejercicio02-NumeroDivisible.csproj.CoreCompileInputs.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio02-NumeroDivisible\obj\Debug\net5.0\Ejercicio02-NumeroDivisible.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio02-NumeroDivisible\obj\Debug\net5.0\ref\Ejercicio02-NumeroDivisible.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio02-NumeroDivisible\obj\Debug\net5.0\Ejercicio02-NumeroDivisible.pdb
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio02-NumeroDivisible\obj\Debug\net5.0\Ejercicio02-NumeroDivisible.genruntimeconfig.cache

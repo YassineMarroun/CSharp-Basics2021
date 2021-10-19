@@ -1,0 +1,16 @@
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo12-Switch\bin\Debug\net5.0\Ejemplo12-Switch.exe
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo12-Switch\bin\Debug\net5.0\Ejemplo12-Switch.deps.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo12-Switch\bin\Debug\net5.0\Ejemplo12-Switch.runtimeconfig.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo12-Switch\bin\Debug\net5.0\Ejemplo12-Switch.runtimeconfig.dev.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo12-Switch\bin\Debug\net5.0\Ejemplo12-Switch.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo12-Switch\bin\Debug\net5.0\ref\Ejemplo12-Switch.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo12-Switch\bin\Debug\net5.0\Ejemplo12-Switch.pdb
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo12-Switch\obj\Debug\net5.0\Ejemplo12-Switch.csproj.AssemblyReference.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo12-Switch\obj\Debug\net5.0\Ejemplo12-Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo12-Switch\obj\Debug\net5.0\Ejemplo12-Switch.AssemblyInfoInputs.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo12-Switch\obj\Debug\net5.0\Ejemplo12-Switch.AssemblyInfo.cs
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo12-Switch\obj\Debug\net5.0\Ejemplo12-Switch.csproj.CoreCompileInputs.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo12-Switch\obj\Debug\net5.0\Ejemplo12-Switch.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo12-Switch\obj\Debug\net5.0\ref\Ejemplo12-Switch.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo12-Switch\obj\Debug\net5.0\Ejemplo12-Switch.pdb
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo12-Switch\obj\Debug\net5.0\Ejemplo12-Switch.genruntimeconfig.cache

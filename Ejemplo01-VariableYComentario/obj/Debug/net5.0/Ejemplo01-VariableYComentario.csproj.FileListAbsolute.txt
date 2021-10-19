@@ -1,0 +1,16 @@
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo01-VariableYComentario\bin\Debug\net5.0\Ejemplo01-VariableYComentario.exe
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo01-VariableYComentario\bin\Debug\net5.0\Ejemplo01-VariableYComentario.deps.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo01-VariableYComentario\bin\Debug\net5.0\Ejemplo01-VariableYComentario.runtimeconfig.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo01-VariableYComentario\bin\Debug\net5.0\Ejemplo01-VariableYComentario.runtimeconfig.dev.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo01-VariableYComentario\bin\Debug\net5.0\Ejemplo01-VariableYComentario.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo01-VariableYComentario\bin\Debug\net5.0\ref\Ejemplo01-VariableYComentario.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo01-VariableYComentario\bin\Debug\net5.0\Ejemplo01-VariableYComentario.pdb
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo01-VariableYComentario\obj\Debug\net5.0\Ejemplo01-VariableYComentario.csproj.AssemblyReference.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo01-VariableYComentario\obj\Debug\net5.0\Ejemplo01-VariableYComentario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo01-VariableYComentario\obj\Debug\net5.0\Ejemplo01-VariableYComentario.AssemblyInfoInputs.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo01-VariableYComentario\obj\Debug\net5.0\Ejemplo01-VariableYComentario.AssemblyInfo.cs
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo01-VariableYComentario\obj\Debug\net5.0\Ejemplo01-VariableYComentario.csproj.CoreCompileInputs.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo01-VariableYComentario\obj\Debug\net5.0\Ejemplo01-VariableYComentario.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo01-VariableYComentario\obj\Debug\net5.0\ref\Ejemplo01-VariableYComentario.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo01-VariableYComentario\obj\Debug\net5.0\Ejemplo01-VariableYComentario.pdb
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo01-VariableYComentario\obj\Debug\net5.0\Ejemplo01-VariableYComentario.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo13-While\bin\Debug\net5.0\Ejemplo13-While.exe
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo13-While\bin\Debug\net5.0\Ejemplo13-While.deps.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo13-While\bin\Debug\net5.0\Ejemplo13-While.runtimeconfig.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo13-While\bin\Debug\net5.0\Ejemplo13-While.runtimeconfig.dev.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo13-While\bin\Debug\net5.0\Ejemplo13-While.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo13-While\bin\Debug\net5.0\ref\Ejemplo13-While.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo13-While\bin\Debug\net5.0\Ejemplo13-While.pdb
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo13-While\obj\Debug\net5.0\Ejemplo13-While.csproj.AssemblyReference.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo13-While\obj\Debug\net5.0\Ejemplo13-While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo13-While\obj\Debug\net5.0\Ejemplo13-While.AssemblyInfoInputs.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo13-While\obj\Debug\net5.0\Ejemplo13-While.AssemblyInfo.cs
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo13-While\obj\Debug\net5.0\Ejemplo13-While.csproj.CoreCompileInputs.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo13-While\obj\Debug\net5.0\Ejemplo13-While.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo13-While\obj\Debug\net5.0\ref\Ejemplo13-While.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo13-While\obj\Debug\net5.0\Ejemplo13-While.pdb
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo13-While\obj\Debug\net5.0\Ejemplo13-While.genruntimeconfig.cache

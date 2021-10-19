@@ -1,0 +1,16 @@
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo09-Enum\obj\Debug\net5.0\Ejemplo09-Enum.csproj.AssemblyReference.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo09-Enum\obj\Debug\net5.0\Ejemplo09-Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo09-Enum\obj\Debug\net5.0\Ejemplo09-Enum.AssemblyInfoInputs.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo09-Enum\obj\Debug\net5.0\Ejemplo09-Enum.AssemblyInfo.cs
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo09-Enum\obj\Debug\net5.0\Ejemplo09-Enum.csproj.CoreCompileInputs.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo09-Enum\bin\Debug\net5.0\Ejemplo09-Enum.exe
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo09-Enum\bin\Debug\net5.0\Ejemplo09-Enum.deps.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo09-Enum\bin\Debug\net5.0\Ejemplo09-Enum.runtimeconfig.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo09-Enum\bin\Debug\net5.0\Ejemplo09-Enum.runtimeconfig.dev.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo09-Enum\bin\Debug\net5.0\Ejemplo09-Enum.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo09-Enum\bin\Debug\net5.0\ref\Ejemplo09-Enum.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo09-Enum\bin\Debug\net5.0\Ejemplo09-Enum.pdb
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo09-Enum\obj\Debug\net5.0\Ejemplo09-Enum.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo09-Enum\obj\Debug\net5.0\ref\Ejemplo09-Enum.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo09-Enum\obj\Debug\net5.0\Ejemplo09-Enum.pdb
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo09-Enum\obj\Debug\net5.0\Ejemplo09-Enum.genruntimeconfig.cache

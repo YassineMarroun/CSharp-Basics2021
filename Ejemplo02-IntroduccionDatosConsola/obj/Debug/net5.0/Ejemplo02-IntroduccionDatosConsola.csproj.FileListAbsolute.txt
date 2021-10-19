@@ -1,0 +1,16 @@
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo02-IntroduccionDatosConsola\bin\Debug\net5.0\Ejemplo02-IntroduccionDatosConsola.exe
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo02-IntroduccionDatosConsola\bin\Debug\net5.0\Ejemplo02-IntroduccionDatosConsola.deps.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo02-IntroduccionDatosConsola\bin\Debug\net5.0\Ejemplo02-IntroduccionDatosConsola.runtimeconfig.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo02-IntroduccionDatosConsola\bin\Debug\net5.0\Ejemplo02-IntroduccionDatosConsola.runtimeconfig.dev.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo02-IntroduccionDatosConsola\bin\Debug\net5.0\Ejemplo02-IntroduccionDatosConsola.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo02-IntroduccionDatosConsola\bin\Debug\net5.0\ref\Ejemplo02-IntroduccionDatosConsola.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo02-IntroduccionDatosConsola\bin\Debug\net5.0\Ejemplo02-IntroduccionDatosConsola.pdb
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo02-IntroduccionDatosConsola\obj\Debug\net5.0\Ejemplo02-IntroduccionDatosConsola.csproj.AssemblyReference.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo02-IntroduccionDatosConsola\obj\Debug\net5.0\Ejemplo02-IntroduccionDatosConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo02-IntroduccionDatosConsola\obj\Debug\net5.0\Ejemplo02-IntroduccionDatosConsola.AssemblyInfoInputs.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo02-IntroduccionDatosConsola\obj\Debug\net5.0\Ejemplo02-IntroduccionDatosConsola.AssemblyInfo.cs
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo02-IntroduccionDatosConsola\obj\Debug\net5.0\Ejemplo02-IntroduccionDatosConsola.csproj.CoreCompileInputs.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo02-IntroduccionDatosConsola\obj\Debug\net5.0\Ejemplo02-IntroduccionDatosConsola.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo02-IntroduccionDatosConsola\obj\Debug\net5.0\ref\Ejemplo02-IntroduccionDatosConsola.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo02-IntroduccionDatosConsola\obj\Debug\net5.0\Ejemplo02-IntroduccionDatosConsola.pdb
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo02-IntroduccionDatosConsola\obj\Debug\net5.0\Ejemplo02-IntroduccionDatosConsola.genruntimeconfig.cache

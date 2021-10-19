@@ -1,0 +1,16 @@
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo00-HolaMundo\bin\Debug\net5.0\Ejemplo00-HolaMundo.exe
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo00-HolaMundo\bin\Debug\net5.0\Ejemplo00-HolaMundo.deps.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo00-HolaMundo\bin\Debug\net5.0\Ejemplo00-HolaMundo.runtimeconfig.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo00-HolaMundo\bin\Debug\net5.0\Ejemplo00-HolaMundo.runtimeconfig.dev.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo00-HolaMundo\bin\Debug\net5.0\Ejemplo00-HolaMundo.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo00-HolaMundo\bin\Debug\net5.0\ref\Ejemplo00-HolaMundo.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo00-HolaMundo\bin\Debug\net5.0\Ejemplo00-HolaMundo.pdb
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo00-HolaMundo\obj\Debug\net5.0\Ejemplo00-HolaMundo.csproj.AssemblyReference.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo00-HolaMundo\obj\Debug\net5.0\Ejemplo00-HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo00-HolaMundo\obj\Debug\net5.0\Ejemplo00-HolaMundo.AssemblyInfoInputs.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo00-HolaMundo\obj\Debug\net5.0\Ejemplo00-HolaMundo.AssemblyInfo.cs
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo00-HolaMundo\obj\Debug\net5.0\Ejemplo00-HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo00-HolaMundo\obj\Debug\net5.0\Ejemplo00-HolaMundo.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo00-HolaMundo\obj\Debug\net5.0\ref\Ejemplo00-HolaMundo.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo00-HolaMundo\obj\Debug\net5.0\Ejemplo00-HolaMundo.pdb
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo00-HolaMundo\obj\Debug\net5.0\Ejemplo00-HolaMundo.genruntimeconfig.cache

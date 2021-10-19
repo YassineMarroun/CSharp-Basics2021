@@ -1,0 +1,16 @@
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo07-CaracteresEscape\bin\Debug\net5.0\Ejemplo07-CaracteresEscape.exe
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo07-CaracteresEscape\bin\Debug\net5.0\Ejemplo07-CaracteresEscape.deps.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo07-CaracteresEscape\bin\Debug\net5.0\Ejemplo07-CaracteresEscape.runtimeconfig.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo07-CaracteresEscape\bin\Debug\net5.0\Ejemplo07-CaracteresEscape.runtimeconfig.dev.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo07-CaracteresEscape\bin\Debug\net5.0\Ejemplo07-CaracteresEscape.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo07-CaracteresEscape\bin\Debug\net5.0\ref\Ejemplo07-CaracteresEscape.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo07-CaracteresEscape\bin\Debug\net5.0\Ejemplo07-CaracteresEscape.pdb
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo07-CaracteresEscape\obj\Debug\net5.0\Ejemplo07-CaracteresEscape.csproj.AssemblyReference.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo07-CaracteresEscape\obj\Debug\net5.0\Ejemplo07-CaracteresEscape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo07-CaracteresEscape\obj\Debug\net5.0\Ejemplo07-CaracteresEscape.AssemblyInfoInputs.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo07-CaracteresEscape\obj\Debug\net5.0\Ejemplo07-CaracteresEscape.AssemblyInfo.cs
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo07-CaracteresEscape\obj\Debug\net5.0\Ejemplo07-CaracteresEscape.csproj.CoreCompileInputs.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo07-CaracteresEscape\obj\Debug\net5.0\Ejemplo07-CaracteresEscape.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo07-CaracteresEscape\obj\Debug\net5.0\ref\Ejemplo07-CaracteresEscape.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo07-CaracteresEscape\obj\Debug\net5.0\Ejemplo07-CaracteresEscape.pdb
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo07-CaracteresEscape\obj\Debug\net5.0\Ejemplo07-CaracteresEscape.genruntimeconfig.cache

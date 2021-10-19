@@ -1,0 +1,16 @@
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo11-InstruccionIf\bin\Debug\net5.0\Ejemplo11-InstruccionIf.exe
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo11-InstruccionIf\bin\Debug\net5.0\Ejemplo11-InstruccionIf.deps.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo11-InstruccionIf\bin\Debug\net5.0\Ejemplo11-InstruccionIf.runtimeconfig.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo11-InstruccionIf\bin\Debug\net5.0\Ejemplo11-InstruccionIf.runtimeconfig.dev.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo11-InstruccionIf\bin\Debug\net5.0\Ejemplo11-InstruccionIf.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo11-InstruccionIf\bin\Debug\net5.0\ref\Ejemplo11-InstruccionIf.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo11-InstruccionIf\bin\Debug\net5.0\Ejemplo11-InstruccionIf.pdb
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo11-InstruccionIf\obj\Debug\net5.0\Ejemplo11-InstruccionIf.csproj.AssemblyReference.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo11-InstruccionIf\obj\Debug\net5.0\Ejemplo11-InstruccionIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo11-InstruccionIf\obj\Debug\net5.0\Ejemplo11-InstruccionIf.AssemblyInfoInputs.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo11-InstruccionIf\obj\Debug\net5.0\Ejemplo11-InstruccionIf.AssemblyInfo.cs
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo11-InstruccionIf\obj\Debug\net5.0\Ejemplo11-InstruccionIf.csproj.CoreCompileInputs.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo11-InstruccionIf\obj\Debug\net5.0\Ejemplo11-InstruccionIf.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo11-InstruccionIf\obj\Debug\net5.0\ref\Ejemplo11-InstruccionIf.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo11-InstruccionIf\obj\Debug\net5.0\Ejemplo11-InstruccionIf.pdb
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo11-InstruccionIf\obj\Debug\net5.0\Ejemplo11-InstruccionIf.genruntimeconfig.cache

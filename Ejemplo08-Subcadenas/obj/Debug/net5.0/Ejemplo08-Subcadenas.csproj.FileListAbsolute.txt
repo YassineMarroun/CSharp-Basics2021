@@ -1,0 +1,16 @@
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo08-Subcadenas\bin\Debug\net5.0\Ejemplo08-Subcadenas.exe
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo08-Subcadenas\bin\Debug\net5.0\Ejemplo08-Subcadenas.deps.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo08-Subcadenas\bin\Debug\net5.0\Ejemplo08-Subcadenas.runtimeconfig.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo08-Subcadenas\bin\Debug\net5.0\Ejemplo08-Subcadenas.runtimeconfig.dev.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo08-Subcadenas\bin\Debug\net5.0\Ejemplo08-Subcadenas.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo08-Subcadenas\bin\Debug\net5.0\ref\Ejemplo08-Subcadenas.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo08-Subcadenas\bin\Debug\net5.0\Ejemplo08-Subcadenas.pdb
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo08-Subcadenas\obj\Debug\net5.0\Ejemplo08-Subcadenas.csproj.AssemblyReference.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo08-Subcadenas\obj\Debug\net5.0\Ejemplo08-Subcadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo08-Subcadenas\obj\Debug\net5.0\Ejemplo08-Subcadenas.AssemblyInfoInputs.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo08-Subcadenas\obj\Debug\net5.0\Ejemplo08-Subcadenas.AssemblyInfo.cs
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo08-Subcadenas\obj\Debug\net5.0\Ejemplo08-Subcadenas.csproj.CoreCompileInputs.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo08-Subcadenas\obj\Debug\net5.0\Ejemplo08-Subcadenas.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo08-Subcadenas\obj\Debug\net5.0\ref\Ejemplo08-Subcadenas.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo08-Subcadenas\obj\Debug\net5.0\Ejemplo08-Subcadenas.pdb
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo08-Subcadenas\obj\Debug\net5.0\Ejemplo08-Subcadenas.genruntimeconfig.cache

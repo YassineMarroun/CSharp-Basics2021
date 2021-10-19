@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejemplo02-IntroduccionDatosConsola/1.0.0": {
+        "runtime": {
+          "Ejemplo02-IntroduccionDatosConsola.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejemplo02-IntroduccionDatosConsola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

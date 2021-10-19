@@ -1,0 +1,16 @@
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo04-OperadoresAritmeticos\bin\Debug\net5.0\Ejemplo04-OperadoresAritmeticos.exe
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo04-OperadoresAritmeticos\bin\Debug\net5.0\Ejemplo04-OperadoresAritmeticos.deps.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo04-OperadoresAritmeticos\bin\Debug\net5.0\Ejemplo04-OperadoresAritmeticos.runtimeconfig.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo04-OperadoresAritmeticos\bin\Debug\net5.0\Ejemplo04-OperadoresAritmeticos.runtimeconfig.dev.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo04-OperadoresAritmeticos\bin\Debug\net5.0\Ejemplo04-OperadoresAritmeticos.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo04-OperadoresAritmeticos\bin\Debug\net5.0\ref\Ejemplo04-OperadoresAritmeticos.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo04-OperadoresAritmeticos\bin\Debug\net5.0\Ejemplo04-OperadoresAritmeticos.pdb
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo04-OperadoresAritmeticos\obj\Debug\net5.0\Ejemplo04-OperadoresAritmeticos.csproj.AssemblyReference.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo04-OperadoresAritmeticos\obj\Debug\net5.0\Ejemplo04-OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo04-OperadoresAritmeticos\obj\Debug\net5.0\Ejemplo04-OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo04-OperadoresAritmeticos\obj\Debug\net5.0\Ejemplo04-OperadoresAritmeticos.AssemblyInfo.cs
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo04-OperadoresAritmeticos\obj\Debug\net5.0\Ejemplo04-OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo04-OperadoresAritmeticos\obj\Debug\net5.0\Ejemplo04-OperadoresAritmeticos.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo04-OperadoresAritmeticos\obj\Debug\net5.0\ref\Ejemplo04-OperadoresAritmeticos.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo04-OperadoresAritmeticos\obj\Debug\net5.0\Ejemplo04-OperadoresAritmeticos.pdb
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejemplo04-OperadoresAritmeticos\obj\Debug\net5.0\Ejemplo04-OperadoresAritmeticos.genruntimeconfig.cache

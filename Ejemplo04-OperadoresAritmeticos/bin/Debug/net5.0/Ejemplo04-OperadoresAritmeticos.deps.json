@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejemplo04-OperadoresAritmeticos/1.0.0": {
+        "runtime": {
+          "Ejemplo04-OperadoresAritmeticos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejemplo04-OperadoresAritmeticos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

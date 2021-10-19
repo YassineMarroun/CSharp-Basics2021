@@ -1,0 +1,16 @@
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio01-Bienvenida\bin\Debug\net5.0\Ejercicio01-Bienvenida.exe
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio01-Bienvenida\bin\Debug\net5.0\Ejercicio01-Bienvenida.deps.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio01-Bienvenida\bin\Debug\net5.0\Ejercicio01-Bienvenida.runtimeconfig.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio01-Bienvenida\bin\Debug\net5.0\Ejercicio01-Bienvenida.runtimeconfig.dev.json
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio01-Bienvenida\bin\Debug\net5.0\Ejercicio01-Bienvenida.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio01-Bienvenida\bin\Debug\net5.0\ref\Ejercicio01-Bienvenida.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio01-Bienvenida\bin\Debug\net5.0\Ejercicio01-Bienvenida.pdb
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio01-Bienvenida\obj\Debug\net5.0\Ejercicio01-Bienvenida.csproj.AssemblyReference.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio01-Bienvenida\obj\Debug\net5.0\Ejercicio01-Bienvenida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio01-Bienvenida\obj\Debug\net5.0\Ejercicio01-Bienvenida.AssemblyInfoInputs.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio01-Bienvenida\obj\Debug\net5.0\Ejercicio01-Bienvenida.AssemblyInfo.cs
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio01-Bienvenida\obj\Debug\net5.0\Ejercicio01-Bienvenida.csproj.CoreCompileInputs.cache
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio01-Bienvenida\obj\Debug\net5.0\Ejercicio01-Bienvenida.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio01-Bienvenida\obj\Debug\net5.0\ref\Ejercicio01-Bienvenida.dll
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio01-Bienvenida\obj\Debug\net5.0\Ejercicio01-Bienvenida.pdb
+C:\Users\yasma2\OneDrive - UNED\01. Cursos 0\02. Aprende a programar con C#\Curso - CSharp\Ejercicio01-Bienvenida\obj\Debug\net5.0\Ejercicio01-Bienvenida.genruntimeconfig.cache
