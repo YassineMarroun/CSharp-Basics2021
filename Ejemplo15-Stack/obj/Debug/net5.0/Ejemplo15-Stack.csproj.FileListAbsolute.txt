@@ -1,0 +1,16 @@
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo15-Stack\obj\Debug\net5.0\Ejemplo15-Stack.csproj.AssemblyReference.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo15-Stack\obj\Debug\net5.0\Ejemplo15-Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo15-Stack\obj\Debug\net5.0\Ejemplo15-Stack.AssemblyInfoInputs.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo15-Stack\obj\Debug\net5.0\Ejemplo15-Stack.AssemblyInfo.cs
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo15-Stack\obj\Debug\net5.0\Ejemplo15-Stack.csproj.CoreCompileInputs.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo15-Stack\bin\Debug\net5.0\Ejemplo15-Stack.exe
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo15-Stack\bin\Debug\net5.0\Ejemplo15-Stack.deps.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo15-Stack\bin\Debug\net5.0\Ejemplo15-Stack.runtimeconfig.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo15-Stack\bin\Debug\net5.0\Ejemplo15-Stack.runtimeconfig.dev.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo15-Stack\bin\Debug\net5.0\Ejemplo15-Stack.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo15-Stack\bin\Debug\net5.0\ref\Ejemplo15-Stack.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo15-Stack\bin\Debug\net5.0\Ejemplo15-Stack.pdb
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo15-Stack\obj\Debug\net5.0\Ejemplo15-Stack.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo15-Stack\obj\Debug\net5.0\ref\Ejemplo15-Stack.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo15-Stack\obj\Debug\net5.0\Ejemplo15-Stack.pdb
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo15-Stack\obj\Debug\net5.0\Ejemplo15-Stack.genruntimeconfig.cache
