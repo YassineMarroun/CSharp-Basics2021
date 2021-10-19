@@ -1,0 +1,16 @@
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo16-Queue\bin\Debug\net5.0\Ejemplo16-Queue.exe
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo16-Queue\bin\Debug\net5.0\Ejemplo16-Queue.deps.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo16-Queue\bin\Debug\net5.0\Ejemplo16-Queue.runtimeconfig.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo16-Queue\bin\Debug\net5.0\Ejemplo16-Queue.runtimeconfig.dev.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo16-Queue\bin\Debug\net5.0\Ejemplo16-Queue.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo16-Queue\bin\Debug\net5.0\ref\Ejemplo16-Queue.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo16-Queue\bin\Debug\net5.0\Ejemplo16-Queue.pdb
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo16-Queue\obj\Debug\net5.0\Ejemplo16-Queue.csproj.AssemblyReference.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo16-Queue\obj\Debug\net5.0\Ejemplo16-Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo16-Queue\obj\Debug\net5.0\Ejemplo16-Queue.AssemblyInfoInputs.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo16-Queue\obj\Debug\net5.0\Ejemplo16-Queue.AssemblyInfo.cs
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo16-Queue\obj\Debug\net5.0\Ejemplo16-Queue.csproj.CoreCompileInputs.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo16-Queue\obj\Debug\net5.0\Ejemplo16-Queue.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo16-Queue\obj\Debug\net5.0\ref\Ejemplo16-Queue.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo16-Queue\obj\Debug\net5.0\Ejemplo16-Queue.pdb
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo16-Queue\obj\Debug\net5.0\Ejemplo16-Queue.genruntimeconfig.cache
