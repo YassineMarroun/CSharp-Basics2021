@@ -1,0 +1,16 @@
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo18-Clase\obj\Debug\net5.0\Ejemplo18-Clase.csproj.AssemblyReference.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo18-Clase\obj\Debug\net5.0\Ejemplo18-Clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo18-Clase\obj\Debug\net5.0\Ejemplo18-Clase.AssemblyInfoInputs.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo18-Clase\obj\Debug\net5.0\Ejemplo18-Clase.AssemblyInfo.cs
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo18-Clase\obj\Debug\net5.0\Ejemplo18-Clase.csproj.CoreCompileInputs.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo18-Clase\bin\Debug\net5.0\Ejemplo18-Clase.exe
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo18-Clase\bin\Debug\net5.0\Ejemplo18-Clase.deps.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo18-Clase\bin\Debug\net5.0\Ejemplo18-Clase.runtimeconfig.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo18-Clase\bin\Debug\net5.0\Ejemplo18-Clase.runtimeconfig.dev.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo18-Clase\bin\Debug\net5.0\Ejemplo18-Clase.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo18-Clase\bin\Debug\net5.0\ref\Ejemplo18-Clase.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo18-Clase\bin\Debug\net5.0\Ejemplo18-Clase.pdb
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo18-Clase\obj\Debug\net5.0\Ejemplo18-Clase.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo18-Clase\obj\Debug\net5.0\ref\Ejemplo18-Clase.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo18-Clase\obj\Debug\net5.0\Ejemplo18-Clase.pdb
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo18-Clase\obj\Debug\net5.0\Ejemplo18-Clase.genruntimeconfig.cache
