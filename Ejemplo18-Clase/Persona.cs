@@ -8,10 +8,10 @@ namespace Ejemplo18_Clase
     class Persona
     {
         // Atributos
-        int idPersona;
-        string nombre;
-        string apellidos;
-        DateTime fechaNacimiento;
+        private int idPersona;
+        private string nombre;
+        private string apellidos;
+        private DateTime fechaNacimiento;
 
         public Persona(int idPersona, string nombre, string apellidos, DateTime fechaNacimiento)
         {
