@@ -1,0 +1,16 @@
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo20-TryCatch\bin\Debug\net5.0\Ejemplo20-TryCatch.exe
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo20-TryCatch\bin\Debug\net5.0\Ejemplo20-TryCatch.deps.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo20-TryCatch\bin\Debug\net5.0\Ejemplo20-TryCatch.runtimeconfig.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo20-TryCatch\bin\Debug\net5.0\Ejemplo20-TryCatch.runtimeconfig.dev.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo20-TryCatch\bin\Debug\net5.0\Ejemplo20-TryCatch.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo20-TryCatch\bin\Debug\net5.0\ref\Ejemplo20-TryCatch.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo20-TryCatch\bin\Debug\net5.0\Ejemplo20-TryCatch.pdb
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo20-TryCatch\obj\Debug\net5.0\Ejemplo20-TryCatch.csproj.AssemblyReference.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo20-TryCatch\obj\Debug\net5.0\Ejemplo20-TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo20-TryCatch\obj\Debug\net5.0\Ejemplo20-TryCatch.AssemblyInfoInputs.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo20-TryCatch\obj\Debug\net5.0\Ejemplo20-TryCatch.AssemblyInfo.cs
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo20-TryCatch\obj\Debug\net5.0\Ejemplo20-TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo20-TryCatch\obj\Debug\net5.0\Ejemplo20-TryCatch.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo20-TryCatch\obj\Debug\net5.0\ref\Ejemplo20-TryCatch.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo20-TryCatch\obj\Debug\net5.0\Ejemplo20-TryCatch.pdb
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo20-TryCatch\obj\Debug\net5.0\Ejemplo20-TryCatch.genruntimeconfig.cache
