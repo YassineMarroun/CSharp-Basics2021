@@ -10,10 +10,17 @@ namespace Ejemplo18_Clase
         // Atributos
         private string curso;
 
+
         // Constructores
+        public Estudiante()
+        {
+        }
+
         public Estudiante(int idPersona, string nombre, string apellidos, DateTime fechaNacimiento, string curso) :base(idPersona, nombre, apellidos, fechaNacimiento)
         {
             this.curso = curso;
         }
+
+        public string Curso { get => curso; set => curso = value; }
     }
 }
