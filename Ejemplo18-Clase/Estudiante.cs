@@ -22,5 +22,10 @@ namespace Ejemplo18_Clase
         }
 
         public string Curso { get => curso; set => curso = value; }
+
+        public override string ToString()
+        {
+            return base.ToString() + $"; Curso: {this.curso}";
+        }
     }
 }

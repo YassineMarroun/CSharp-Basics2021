@@ -28,6 +28,32 @@ namespace Ejemplo18_Clase
 
             Console.WriteLine($"La empleada {empleado1.Nombre} tiene {empleado1.CalcularEdad()} años.");
             Console.WriteLine($"El estudiante {estudiante1.Nombre} tiene {estudiante1.CalcularEdad()} años.");
+
+            Console.WriteLine(persona1);
+            Console.WriteLine(empleado1);
+            Console.WriteLine(estudiante1);
+
+            Persona persona3 = empleado1;
+            Persona persona4 = estudiante1;
+
+            CompruebaObjeto(persona1);
+            CompruebaObjeto(persona3);
+            CompruebaObjeto(persona4);
+        }
+
+
+        private static void CompruebaObjeto(Object objeto)
+        {
+            if (objeto is Empleado)
+            {
+                Console.WriteLine("El objeto es de la clase Empleado -> " + objeto);
+            } else if (objeto is Estudiante)
+            {
+                Console.WriteLine("El objeto es de la clase Estudiante -> " + objeto);
+            } else
+            {
+                Console.WriteLine("No es ni Empleado ni Estudiante -> " + objeto);
+            }
         }
     }
 }

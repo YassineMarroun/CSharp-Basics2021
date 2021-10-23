@@ -60,5 +60,13 @@ namespace Ejemplo18_Clase
 
             return edad;
         }
+
+
+        // Sobrescribo el método ToString para que devuelva el mensaje que quiero
+        public override string ToString()
+        {
+            return $"Id: {this.idPersona}; Nombre: {this.nombre}; Apellidos: {this.apellidos}; "
+                 + $"Fecha de nacimiento: {this.fechaNacimiento.ToShortDateString()}";
+        }
     }
 }

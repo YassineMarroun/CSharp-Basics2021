@@ -32,5 +32,10 @@ namespace Ejemplo18_Clase
         {
             this.salario -= cantidad;
         }
+
+        public override string ToString()
+        {
+            return base.ToString() + $"; Salario: {this.salario}";
+        }
     }
 }
