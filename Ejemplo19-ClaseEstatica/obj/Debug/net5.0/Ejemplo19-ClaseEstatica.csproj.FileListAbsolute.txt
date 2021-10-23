@@ -1,0 +1,16 @@
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo19-ClaseEstatica\bin\Debug\net5.0\Ejemplo19-ClaseEstatica.exe
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo19-ClaseEstatica\bin\Debug\net5.0\Ejemplo19-ClaseEstatica.deps.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo19-ClaseEstatica\bin\Debug\net5.0\Ejemplo19-ClaseEstatica.runtimeconfig.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo19-ClaseEstatica\bin\Debug\net5.0\Ejemplo19-ClaseEstatica.runtimeconfig.dev.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo19-ClaseEstatica\bin\Debug\net5.0\Ejemplo19-ClaseEstatica.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo19-ClaseEstatica\bin\Debug\net5.0\ref\Ejemplo19-ClaseEstatica.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo19-ClaseEstatica\bin\Debug\net5.0\Ejemplo19-ClaseEstatica.pdb
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo19-ClaseEstatica\obj\Debug\net5.0\Ejemplo19-ClaseEstatica.csproj.AssemblyReference.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo19-ClaseEstatica\obj\Debug\net5.0\Ejemplo19-ClaseEstatica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo19-ClaseEstatica\obj\Debug\net5.0\Ejemplo19-ClaseEstatica.AssemblyInfoInputs.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo19-ClaseEstatica\obj\Debug\net5.0\Ejemplo19-ClaseEstatica.AssemblyInfo.cs
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo19-ClaseEstatica\obj\Debug\net5.0\Ejemplo19-ClaseEstatica.csproj.CoreCompileInputs.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo19-ClaseEstatica\obj\Debug\net5.0\Ejemplo19-ClaseEstatica.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo19-ClaseEstatica\obj\Debug\net5.0\ref\Ejemplo19-ClaseEstatica.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo19-ClaseEstatica\obj\Debug\net5.0\Ejemplo19-ClaseEstatica.pdb
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo19-ClaseEstatica\obj\Debug\net5.0\Ejemplo19-ClaseEstatica.genruntimeconfig.cache
