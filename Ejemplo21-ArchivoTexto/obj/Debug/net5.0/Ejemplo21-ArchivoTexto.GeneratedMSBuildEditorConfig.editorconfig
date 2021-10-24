@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = Ejemplo19_ClaseEstatica
-build_property.ProjectDir = c:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo19-ClaseEstatica\
+build_property.RootNamespace = Ejemplo21_ArchivoTexto
+build_property.ProjectDir = C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo21-ArchivoTexto\

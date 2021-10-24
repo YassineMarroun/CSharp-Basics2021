@@ -1,0 +1,16 @@
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo21-ArchivoTexto\obj\Debug\net5.0\Ejemplo21-ArchivoTexto.csproj.AssemblyReference.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo21-ArchivoTexto\obj\Debug\net5.0\Ejemplo21-ArchivoTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo21-ArchivoTexto\obj\Debug\net5.0\Ejemplo21-ArchivoTexto.AssemblyInfoInputs.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo21-ArchivoTexto\obj\Debug\net5.0\Ejemplo21-ArchivoTexto.AssemblyInfo.cs
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo21-ArchivoTexto\obj\Debug\net5.0\Ejemplo21-ArchivoTexto.csproj.CoreCompileInputs.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo21-ArchivoTexto\bin\Debug\net5.0\Ejemplo21-ArchivoTexto.exe
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo21-ArchivoTexto\bin\Debug\net5.0\Ejemplo21-ArchivoTexto.deps.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo21-ArchivoTexto\bin\Debug\net5.0\Ejemplo21-ArchivoTexto.runtimeconfig.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo21-ArchivoTexto\bin\Debug\net5.0\Ejemplo21-ArchivoTexto.runtimeconfig.dev.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo21-ArchivoTexto\bin\Debug\net5.0\Ejemplo21-ArchivoTexto.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo21-ArchivoTexto\bin\Debug\net5.0\ref\Ejemplo21-ArchivoTexto.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo21-ArchivoTexto\bin\Debug\net5.0\Ejemplo21-ArchivoTexto.pdb
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo21-ArchivoTexto\obj\Debug\net5.0\Ejemplo21-ArchivoTexto.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo21-ArchivoTexto\obj\Debug\net5.0\ref\Ejemplo21-ArchivoTexto.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo21-ArchivoTexto\obj\Debug\net5.0\Ejemplo21-ArchivoTexto.pdb
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo21-ArchivoTexto\obj\Debug\net5.0\Ejemplo21-ArchivoTexto.genruntimeconfig.cache
