@@ -5,19 +5,15 @@ namespace Ejercicio10_CSharpFlix
 {
     class Program
     {
-        struct Pelicula
-        {
-            public string titulo;
-            public string director;
-            public int duracion;
-        }
         static void Main(string[] args)
         {
             int opcion;
+            // Preguntamos nombre al usuario para darle la bienvenida
             Console.WriteLine("Hola, ¿Cómo te llamas?");
             string usuario = Console.ReadLine();
             Console.WriteLine("Bienvenido a CSharpFlix, " + usuario);
 
+            // Creamos una lista de películas
             List<Pelicula> peliculas = new List<Pelicula>();
             do{
                     Console.WriteLine("----------------------------");
@@ -39,18 +35,24 @@ namespace Ejercicio10_CSharpFlix
                             Console.WriteLine("--------------------");
                             foreach(Pelicula peli in peliculas)
                             {
-                                Console.WriteLine("Titulo: {0}; Director: {1}; Duración: {2} minutos.",
-                                    peli.titulo, peli.director, peli.duracion);
+                                Console.WriteLine(peli);
                             }
                             break;
                         case 2:
+                            // Creamos una película y la añadimos a la lista
                             Pelicula peliNueva = new Pelicula();
                             Console.WriteLine("Introduce el título de la película: ");
-                            peliNueva.titulo = Console.ReadLine();
-                            Console.WriteLine("Introduce el nombre del director/a: ");
-                            peliNueva.director = Console.ReadLine();
+                            peliNueva.Titulo = Console.ReadLine();
                             Console.WriteLine("Introduce la duración en minutos: ");
-                            peliNueva.duracion = int.Parse(Console.ReadLine());
+                            peliNueva.Duracion = int.Parse(Console.ReadLine());
+                            Console.WriteLine("Introduce la descripción: ");
+                            peliNueva.Descripcion = Console.ReadLine();
+                            peliNueva.Fecha = DateTime.Today;                           
+                            Console.WriteLine("Introduce el nombre del director/a: ");
+                            peliNueva.Director = Console.ReadLine();
+                            Console.WriteLine("Introduce el género de la película: ");
+                            peliNueva.Genero = Console.ReadLine();
+
                             peliculas.Add(peliNueva);
                             break;
                         case 3:
@@ -65,13 +67,12 @@ namespace Ejercicio10_CSharpFlix
                                 // Recorremos la lista de películas
                                 for (int i = peliculas.Count-1; i >= 0; i--)
                                 {
-                                    if (peliculas[i].titulo.Contains(titulo))
+                                    if (peliculas[i].Titulo.Contains(titulo))
                                     {
                                         // El título contiene el criterio de búsqueda
                                         // Le preguntamos si desea borrarla
                                         Console.WriteLine("¿Estás seguro de que deseas borrar la siguiente película (s/n)?");
-                                        Console.WriteLine("Titulo: {0}; Director: {1}; Duración: {2} minutos.",
-                                            peliculas[i].titulo, peliculas[i].director, peliculas[i].duracion);
+                                        Console.WriteLine(peliculas[i]);
                                         char respuesta = char.Parse(Console.ReadLine().ToLower());
                                         if (respuesta == 's')
                                         {
@@ -84,7 +85,7 @@ namespace Ejercicio10_CSharpFlix
                             break;
                     }
 
-            } while (opcion != 0);
+            } while (opcion != 4);
             Console.WriteLine($"Adiós {usuario}, ¡Hasta la vista!");
         }
     }
