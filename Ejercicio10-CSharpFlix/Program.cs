@@ -1,10 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Text.Json;
 
 namespace Ejercicio10_CSharpFlix
 {
     class Program
     {
+        // Ruta del archivo JSON que contiene las películas
+        const string RutaJSONpeliculas = @"C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\peliculas.json";
         static void Main(string[] args)
         {
             int opcion;
@@ -13,8 +17,8 @@ namespace Ejercicio10_CSharpFlix
             string usuario = Console.ReadLine();
             Console.WriteLine("Bienvenido a CSharpFlix, " + usuario);
 
-            // Creamos una lista de películas
-            List<Pelicula> peliculas = new List<Pelicula>();
+            // Obtenemos una lista de películas
+            List<Pelicula> peliculas = CargarPeliculasArchivo();
             do{
                 PintaMenu();   
                 Console.WriteLine("Introduce una opción (0-3)");
@@ -34,10 +38,17 @@ namespace Ejercicio10_CSharpFlix
                         // Eliminar películas
                         EliminarPelicula(peliculas);
                         break;
+                    default:
+                        // Opción incorrecta
+                        Console.WriteLine("Opción incorrecta.");
+                        break;
                 }
 
             } while (opcion != 0);
+            // Nos despedimos del usuario
             Console.WriteLine($"Adiós {usuario}, ¡Hasta la vista!");
+            // Guardamos las películas en archivo
+            GuardarPeliculasArchivo(peliculas);
         }
 
 
@@ -117,9 +128,41 @@ namespace Ejercicio10_CSharpFlix
                             // La borramos
                             peliculas.RemoveAt(i);
                         }
-                    }
+                    } 
                 }
+            } else
+            {
+                // No hay películas en la lista
+                Console.WriteLine("No existen películas en el sistema");
             }
+        }
+
+
+        // Cargamos las películas desde un archivo
+        private static List<Pelicula> CargarPeliculasArchivo()
+        {
+            List<Pelicula> pelisCargadas;
+
+            if (File.Exists(RutaJSONpeliculas))
+            {
+                // Leemos el archivo y lo deserializamos a una lista
+                string cadenaJSON = File.ReadAllText(RutaJSONpeliculas);
+                pelisCargadas = JsonSerializer.Deserialize<List<Pelicula>>(cadenaJSON);
+            } else
+            {
+                pelisCargadas = new List<Pelicula>();
+            }
+
+            return pelisCargadas;
+        }
+
+
+        // Guardamos las pelíulas en archivo
+        private static void GuardarPeliculasArchivo(List<Pelicula> peliculas)
+        {
+            // Serializamos la lista a una cadena JSON y la guardamos
+            string cadenaJSON = JsonSerializer.Serialize(peliculas);
+            File.WriteAllText(RutaJSONpeliculas, cadenaJSON);
         }
     }
 }
