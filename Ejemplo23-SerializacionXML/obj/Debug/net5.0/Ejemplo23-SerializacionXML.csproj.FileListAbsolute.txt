@@ -1,0 +1,16 @@
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo23-SerializacionXML\bin\Debug\net5.0\Ejemplo23-SerializacionXML.exe
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo23-SerializacionXML\bin\Debug\net5.0\Ejemplo23-SerializacionXML.deps.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo23-SerializacionXML\bin\Debug\net5.0\Ejemplo23-SerializacionXML.runtimeconfig.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo23-SerializacionXML\bin\Debug\net5.0\Ejemplo23-SerializacionXML.runtimeconfig.dev.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo23-SerializacionXML\bin\Debug\net5.0\Ejemplo23-SerializacionXML.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo23-SerializacionXML\bin\Debug\net5.0\ref\Ejemplo23-SerializacionXML.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo23-SerializacionXML\bin\Debug\net5.0\Ejemplo23-SerializacionXML.pdb
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo23-SerializacionXML\obj\Debug\net5.0\Ejemplo23-SerializacionXML.csproj.AssemblyReference.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo23-SerializacionXML\obj\Debug\net5.0\Ejemplo23-SerializacionXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo23-SerializacionXML\obj\Debug\net5.0\Ejemplo23-SerializacionXML.AssemblyInfoInputs.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo23-SerializacionXML\obj\Debug\net5.0\Ejemplo23-SerializacionXML.AssemblyInfo.cs
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo23-SerializacionXML\obj\Debug\net5.0\Ejemplo23-SerializacionXML.csproj.CoreCompileInputs.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo23-SerializacionXML\obj\Debug\net5.0\Ejemplo23-SerializacionXML.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo23-SerializacionXML\obj\Debug\net5.0\ref\Ejemplo23-SerializacionXML.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo23-SerializacionXML\obj\Debug\net5.0\Ejemplo23-SerializacionXML.pdb
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo23-SerializacionXML\obj\Debug\net5.0\Ejemplo23-SerializacionXML.genruntimeconfig.cache
