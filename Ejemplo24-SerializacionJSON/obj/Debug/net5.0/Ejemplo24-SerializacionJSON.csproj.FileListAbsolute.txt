@@ -1,0 +1,16 @@
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo24-SerializacionJSON\bin\Debug\net5.0\Ejemplo24-SerializacionJSON.exe
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo24-SerializacionJSON\bin\Debug\net5.0\Ejemplo24-SerializacionJSON.deps.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo24-SerializacionJSON\bin\Debug\net5.0\Ejemplo24-SerializacionJSON.runtimeconfig.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo24-SerializacionJSON\bin\Debug\net5.0\Ejemplo24-SerializacionJSON.runtimeconfig.dev.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo24-SerializacionJSON\bin\Debug\net5.0\Ejemplo24-SerializacionJSON.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo24-SerializacionJSON\bin\Debug\net5.0\ref\Ejemplo24-SerializacionJSON.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo24-SerializacionJSON\bin\Debug\net5.0\Ejemplo24-SerializacionJSON.pdb
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo24-SerializacionJSON\obj\Debug\net5.0\Ejemplo24-SerializacionJSON.csproj.AssemblyReference.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo24-SerializacionJSON\obj\Debug\net5.0\Ejemplo24-SerializacionJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo24-SerializacionJSON\obj\Debug\net5.0\Ejemplo24-SerializacionJSON.AssemblyInfoInputs.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo24-SerializacionJSON\obj\Debug\net5.0\Ejemplo24-SerializacionJSON.AssemblyInfo.cs
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo24-SerializacionJSON\obj\Debug\net5.0\Ejemplo24-SerializacionJSON.csproj.CoreCompileInputs.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo24-SerializacionJSON\obj\Debug\net5.0\Ejemplo24-SerializacionJSON.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo24-SerializacionJSON\obj\Debug\net5.0\ref\Ejemplo24-SerializacionJSON.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo24-SerializacionJSON\obj\Debug\net5.0\Ejemplo24-SerializacionJSON.pdb
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo24-SerializacionJSON\obj\Debug\net5.0\Ejemplo24-SerializacionJSON.genruntimeconfig.cache

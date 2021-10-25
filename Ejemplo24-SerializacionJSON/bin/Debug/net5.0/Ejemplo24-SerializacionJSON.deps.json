@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejemplo24-SerializacionJSON/1.0.0": {
+        "runtime": {
+          "Ejemplo24-SerializacionJSON.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejemplo24-SerializacionJSON/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
