@@ -1,0 +1,16 @@
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo22-SerializacionBinaria\bin\Debug\net5.0\Ejemplo22-SerializacionBinaria.exe
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo22-SerializacionBinaria\bin\Debug\net5.0\Ejemplo22-SerializacionBinaria.deps.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo22-SerializacionBinaria\bin\Debug\net5.0\Ejemplo22-SerializacionBinaria.runtimeconfig.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo22-SerializacionBinaria\bin\Debug\net5.0\Ejemplo22-SerializacionBinaria.runtimeconfig.dev.json
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo22-SerializacionBinaria\bin\Debug\net5.0\Ejemplo22-SerializacionBinaria.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo22-SerializacionBinaria\bin\Debug\net5.0\ref\Ejemplo22-SerializacionBinaria.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo22-SerializacionBinaria\bin\Debug\net5.0\Ejemplo22-SerializacionBinaria.pdb
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo22-SerializacionBinaria\obj\Debug\net5.0\Ejemplo22-SerializacionBinaria.csproj.AssemblyReference.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo22-SerializacionBinaria\obj\Debug\net5.0\Ejemplo22-SerializacionBinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo22-SerializacionBinaria\obj\Debug\net5.0\Ejemplo22-SerializacionBinaria.AssemblyInfoInputs.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo22-SerializacionBinaria\obj\Debug\net5.0\Ejemplo22-SerializacionBinaria.AssemblyInfo.cs
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo22-SerializacionBinaria\obj\Debug\net5.0\Ejemplo22-SerializacionBinaria.csproj.CoreCompileInputs.cache
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo22-SerializacionBinaria\obj\Debug\net5.0\Ejemplo22-SerializacionBinaria.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo22-SerializacionBinaria\obj\Debug\net5.0\ref\Ejemplo22-SerializacionBinaria.dll
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo22-SerializacionBinaria\obj\Debug\net5.0\Ejemplo22-SerializacionBinaria.pdb
+C:\Users\yasma2\OneDrive - UNED\.ProyectosGITHUB\CSharp - Basics2021\Ejemplo22-SerializacionBinaria\obj\Debug\net5.0\Ejemplo22-SerializacionBinaria.genruntimeconfig.cache
